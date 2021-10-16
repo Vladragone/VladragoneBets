@@ -1,6 +1,14 @@
 header{
     background-color: #FFE800;
+    min-height: 50% !important;	
 }
 footer{
     background-color: #FFE800;
 }
+gg:hover {
+  background:#1C85BB;/*добавляем эффект при наведении*/
+}
+li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+  margin-right:5px; /*Добавляем отступ у пунктов меню*/
+  
